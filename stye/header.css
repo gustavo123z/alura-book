@@ -1,0 +1,26 @@
+.Cabeçalho--menu-hambuguer{
+        width: 24px;
+        height: 24px;
+        background-image: url("../img/Menu.svg");
+        background-repeat: no-repeat;
+        background-position: center;
+        display: inline-block;
+}
+
+.cabeçalho{
+      background-color: var(--branco);
+     display: flex;
+     justify-content: space-between;
+    align-items: center;
+}
+.countainer{
+         display:flex;
+         align-items: center;
+
+}
+
+.countainer__imagem{
+          padding: 1em;
+
+
+}
